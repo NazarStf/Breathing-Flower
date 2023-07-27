@@ -18,6 +18,10 @@ struct ContentView: View {
 	
 	var body: some View {
 		ZStack {
+		   //MARK: - WINTER BACKGROUND
+			Image("winterNight").resizable().aspectRatio(contentMode: .fill)
+				.frame(width: 400, height: 900)
+			SnowView()
 			ZStack {
 				//MARK: - ANIMATE TEXT LABELS
 				Group {

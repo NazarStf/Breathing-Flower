@@ -12,6 +12,7 @@
 		74FAE7D32A72FCCC00CF21C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74FAE7D22A72FCCC00CF21C5 /* Assets.xcassets */; };
 		74FAE7E02A72FD8500CF21C5 /* PetalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74FAE7DF2A72FD8500CF21C5 /* PetalView.swift */; };
 		74FAE7E42A72FE8B00CF21C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74FAE7E32A72FE8B00CF21C5 /* Preview Assets.xcassets */; };
+		74FAE7E62A72FF1900CF21C5 /* SnowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74FAE7E52A72FF1900CF21C5 /* SnowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		74FAE7DF2A72FD8500CF21C5 /* PetalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetalView.swift; sourceTree = "<group>"; };
 		74FAE7E12A72FE5500CF21C5 /* Breathing_Flower.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = Breathing_Flower.entitlements; sourceTree = "<group>"; };
 		74FAE7E32A72FE8B00CF21C5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		74FAE7E52A72FF1900CF21C5 /* SnowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				74FAE7CE2A72FCCB00CF21C5 /* Breathing_FlowerApp.swift */,
 				74FAE7D02A72FCCB00CF21C5 /* ContentView.swift */,
 				74FAE7DF2A72FD8500CF21C5 /* PetalView.swift */,
+				74FAE7E52A72FF1900CF21C5 /* SnowView.swift */,
 				74FAE7D22A72FCCC00CF21C5 /* Assets.xcassets */,
 				74FAE7E22A72FE8B00CF21C5 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 				74FAE7D12A72FCCB00CF21C5 /* ContentView.swift in Sources */,
 				74FAE7CF2A72FCCB00CF21C5 /* Breathing_FlowerApp.swift in Sources */,
 				74FAE7E02A72FD8500CF21C5 /* PetalView.swift in Sources */,
+				74FAE7E62A72FF1900CF21C5 /* SnowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
